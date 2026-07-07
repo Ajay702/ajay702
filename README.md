@@ -33,7 +33,9 @@ Full-stack AI product that analyzes design mockups and generates UI/UX critique 
 ## Also worth a look
 
 **[claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph)** — Agentic workflow orchestration for claims processing, built on LangGraph.
+
 **[My Legal Consultant](https://github.com/Ajay702/My-Legal-Consultant)** — Domain-focused legal guidance app for practical, everyday use.
+
 **[Lead-Intent-Scoring-Service](https://github.com/Ajay702/Lead-Intent-Scoring-Service-Backend-)** — Backend service for scoring and ranking lead intent.
 
 ***
