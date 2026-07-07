@@ -1,61 +1,45 @@
 <h1 align="center">Ajay Raghav</h1>
 <p align="center">
-  <strong>Founding-engineer energy.</strong><br />
-  Building AI products, developer tooling, and full-stack systems designed for real workflows.
+  Building AI products and full-stack systems, from idea to shipped.<br />
+  CS engineer · shipped two AI products solo · open to remote roles at AI startups.
 </p>
 
 <p align="center">
-  <a href="https://github.com/PostGitHQ/postgit"><img src="https://img.shields.io/badge/PostGit-flagship%20product-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="PostGit badge" /></a>
-  <a href="https://github.com/Ajay702/makerr"><img src="https://img.shields.io/badge/Makerr-AI%20workflow-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Makerr badge" /></a>
+  <a href="https://github.com/PostGitHQ/postgit"><img src="https://img.shields.io/badge/PostGit-flagship-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="PostGit badge" /></a>
+  <a href="https://github.com/Ajay702/makerr"><img src="https://img.shields.io/badge/Docminos-AI%20reports-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Docminos badge" /></a>
   <a href="https://github.com/Ajay702/Design-Sight"><img src="https://img.shields.io/badge/Design--Sight-product%20critique-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Design-Sight badge" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Build%20mode-on-111827?style=flat-square" alt="Build mode on" />
-  <img src="https://img.shields.io/badge/Product%20taste-high-1F2937?style=flat-square" alt="Product taste high" />
-  <img src="https://img.shields.io/badge/Systems-thinking-374151?style=flat-square" alt="Systems thinking" />
-  <img src="https://img.shields.io/badge/AI-applied-F97316?style=flat-square" alt="AI applied" />
 </p>
 
 ***
 
-## What I build
+## About
 
-I like building software that sits between strong product instinct and serious engineering.
+I build AI-assisted products and the backend systems behind them — RAG pipelines, LLM evaluation, async processing, and full-stack apps that ship. I've interned on production RAG/LLM infra and React/Web3 frontends, and independently designed, built, and shipped two AI products end to end.
 
-The work here is centered around:
-- AI-assisted workflows
-- developer tools and internal-product thinking
-- full-stack systems with real user value
-- focused products that solve one problem well
-
-Some of the strongest systems stay private because of enterprise security constraints, so this profile is designed as a curated public surface rather than a full dump of everything built.
+I care about clean architecture and I care about the product actually being useful — I try not to trade off one for the other.
 
 ***
 
 ## Flagship work
 
-### [PostGit](https://github.com/PostGitHQ/postgit)
-A developer-facing product built around turning meaningful Git activity into shareable proof of work and social capital.
+**[PostGit](https://github.com/PostGitHQ/postgit)**
+Turns a developer's GitHub commit history into shareable social posts — proof of work, packaged for distribution.
 
-### [Makerr](https://github.com/Ajay702/makerr)
-AI-assisted report generation system built around structured workflows, content generation, and modular backend architecture.
+**[Docminos](https://github.com/Ajay702/makerr)**
+AI platform that generates institution-formatted DOCX reports from structured input — built around modular content generation and reusable templating.
 
-### [Design-Sight](https://github.com/Ajay702/Design-Sight)
-Full-stack AI product for analyzing design mockups and generating UI/UX critique through computer vision.
+**[Design-Sight](https://github.com/Ajay702/Design-Sight)**
+Full-stack AI product that analyzes design mockups and generates UI/UX critique using computer vision.
 
 ***
 
-## More selected work
+## Also worth a look
 
-### [claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph)
-Process-oriented AI workflow orchestration with a backend and reasoning-driven systems feel.
+- **[claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph)** — Agentic workflow orchestration for claims processing, built on LangGraph.
+- **[My Legal Consultant](https://github.com/Ajay702/My-Legal-Consultant)** — Domain-focused legal guidance app for practical, everyday use.
+- **[Lead-Intent-Scoring-Service](https://github.com/Ajay702/Lead-Intent-Scoring-Service-Backend-)** — Backend service for scoring and ranking lead intent.
 
-### [My Legal Consultant](https://github.com/Ajay702/My-Legal-Consultant)
-Domain-focused legal guidance application designed for practical user-facing utility.
-
-### [Lead-Intent-Scoring-Service-Backend-](https://github.com/Ajay702/Lead-Intent-Scoring-Service-Backend-)
-Backend scoring service centered on business logic, ranking, and applied decision systems.
+*A few production systems built during internships stay private due to company security constraints — happy to walk through the architecture in conversation.*
 
 ***
 
@@ -78,31 +62,18 @@ Backend scoring service centered on business logic, ranking, and applied decisio
 
 ***
 
-## Engineering style
+## How I work
 
-- Build around workflows, not just features
-- Use AI where it changes the outcome
-- Keep systems modular, legible, and extensible
-- Care about UX as much as backend structure
-- Prefer durable products over flashy demos
-
-***
-
-## Start here
-
-If this is your first time on the profile, start with:
-
-1. [PostGit](https://github.com/PostGitHQ/postgit)
-2. [Makerr](https://github.com/Ajay702/makerr)
-3. [Design-Sight](https://github.com/Ajay702/Design-Sight)
-4. [claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph)
-5. [My Legal Consultant](https://github.com/Ajay702/My-Legal-Consultant)
+- Ship in vertical slices — working end-to-end before polishing
+- Reach for AI where it changes the outcome, not as a checkbox
+- Keep systems modular enough to hand off or extend
+- Treat UX and backend structure as equally important, not backend-first
 
 ***
 
-## Contact
+## Get in touch
 
 - LinkedIn: add your LinkedIn URL
 - Email: add your professional email
 
-> Public repositories here are selected to represent product direction and engineering style. Some higher-sensitivity systems remain private due to enterprise security requirements.
+<sub>Public repos here are curated to show product direction and engineering style — not a full dump of everything built.</sub>
