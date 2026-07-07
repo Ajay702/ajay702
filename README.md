@@ -68,4 +68,8 @@ Full-stack AI product that analyzes design mockups and generates UI/UX critique 
 
 ***
 
-<sub>From first commit to shipped product — this is the whole arc.</sub>
+<p align="center">
+
+  <em>From first commit to shipped product — this is the whole arc.</em>
+
+</p>
