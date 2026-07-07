@@ -1,63 +1,106 @@
 <h1 align="center">Ajay Raghav</h1>
 <p align="center">
-  Full-stack engineer building AI-assisted products, developer tooling, and workflow software.
+  <strong>Founding-engineer style builder</strong> focused on AI products, developer tooling, and full-stack systems with real workflow value.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ajay702/makerr"><img src="https://img.shields.io/badge/Flagship-Makerr-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Makerr badge" /></a>
+  <a href="https://github.com/Ajay702/Design-Sight"><img src="https://img.shields.io/badge/Product-Design--Sight-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Design-Sight badge" /></a>
+  <a href="https://github.com/Ajay702/claim-processing-langgraph"><img src="https://img.shields.io/badge/AI-Workflows-10B981?style=for-the-badge&logo=github&logoColor=white" alt="AI Workflows badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Product%20Thinking-High-111827?style=flat-square" alt="Product Thinking badge" />
+  <img src="https://img.shields.io/badge/Systems%20Mindset-Strong-1F2937?style=flat-square" alt="Systems Mindset badge" />
+  <img src="https://img.shields.io/badge/Execution-Build%20%26%20Ship-374151?style=flat-square" alt="Execution badge" />
 </p>
 
 ***
 
-## About
+## What I Build
 
-This profile is a public snapshot of the technologies, product areas, and engineering direction behind recent work.
+I build software where product sense and engineering depth need to coexist.
 
-Most current work sits across applied AI systems, developer experience, workflow automation, and full-stack web products. Some of the strongest repositories remain private due to enterprise and security requirements, so the public profile is intentionally selective.
+The strongest public work here sits around:
+- AI-assisted workflow systems
+- developer tooling and internal-product style thinking
+- full-stack applications with practical user value
+- domain-focused software designed to solve specific problems well
+
+Some stronger systems remain private because of enterprise and security constraints, so the public profile is intentionally curated rather than exhaustive.
 
 ***
 
-## Selected Work
+## Selected Projects
 
-### Core product areas
-- **Developer tooling** — products shaped around workflow clarity, proof of work, and engineering efficiency.
-- **Applied AI** — systems that place AI inside practical user and business workflows.
-- **Full-stack web products** — software designed with equal attention to backend structure and user experience.
-- **Domain-focused applications** — tools built for specific real-world use cases rather than generic demos.
+### Core products
 
-### Public repositories worth starting with
-- [Makerr](https://github.com/Ajay702/makerr) — AI-assisted report generation and structured workflow tooling.
-- [Design-Sight](https://github.com/Ajay702/Design-Sight) — full-stack AI design analysis platform.
-- [My Legal Consultant](https://github.com/Ajay702/My-Legal-Consultant) — domain-specific legal guidance product.
-- [claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph) — AI workflow orchestration and backend logic.
-- [Lead-Intent-Scoring-Service-Backend-](https://github.com/Ajay702/Lead-Intent-Scoring-Service-Backend-) — backend scoring service focused on applied business logic.
+#### [Makerr](https://github.com/Ajay702/makerr)
+AI-assisted report generation system built around structured workflows, content generation, and modular Flask architecture.
 
-### Private work
-A number of stronger recent systems are intentionally kept private because of enterprise security constraints. Public repositories are used here as representative samples of product direction, technical range, and implementation style.
+#### [Design-Sight](https://github.com/Ajay702/Design-Sight)
+Full-stack AI product for analyzing design mockups and generating UI/UX feedback with computer vision support.
+
+#### [claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph)
+AI workflow orchestration project focused on structured backend reasoning and process-driven automation.
+
+### Supporting work
+
+#### [My Legal Consultant](https://github.com/Ajay702/My-Legal-Consultant)
+Domain-focused legal guidance application built with a practical, user-facing approach.
+
+#### [Lead-Intent-Scoring-Service-Backend-](https://github.com/Ajay702/Lead-Intent-Scoring-Service-Backend-)
+Backend scoring service centered on applied business logic, ranking, and service design.
+
+#### [Weekly-Scheduler](https://github.com/Ajay702/Weekly-Scheduler)
+Scheduling-focused TypeScript application that adds breadth to the portfolio and supports the product-engineering story.
 
 ***
 
 ## Stack
 
-**Languages**  
-Python, JavaScript, TypeScript, C++, HTML, CSS, Solidity
-
-**Frameworks and Libraries**  
-Flask, Node.js, Express, React, Next.js
-
-**Infrastructure and Data**  
-MongoDB, PostgreSQL, SQLAlchemy, Docker, Git, GitHub
-
-**Cloud and AI**  
-AWS, EC2, S3, RDS, LLM-based application workflows, Google Vision API
-
-***
-
-## Engineering Focus
-
-- Building products that can move from prototype to usable system
-- Applying AI where it improves a workflow instead of acting as decoration
-- Keeping architecture understandable, modular, and practical
-- Treating UX as part of engineering quality, not just presentation
+<p>
+  <img src="https://img.shields.io/badge/Python-1D4ED8?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F59E0B?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Node.js-16A34A?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-374151?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/MongoDB-059669?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-0284C7?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-F97316?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
 
 ***
 
-## Notes
+## Engineering Style
 
-This GitHub profile is intentionally minimal. It is meant to communicate engineering direction, selected public work, and product taste without exposing private systems that are subject to security restrictions.
+- Build around real workflows, not abstract demos
+- Use AI where it improves outcomes, not where it only looks impressive
+- Keep backend structure modular and practical
+- Treat product clarity as part of engineering quality
+- Prefer systems that can evolve into durable software
+
+***
+
+## Public Starting Points
+
+If this is your first time on this profile, start with:
+
+1. [Makerr](https://github.com/Ajay702/makerr)
+2. [Design-Sight](https://github.com/Ajay702/Design-Sight)
+3. [claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph)
+4. [My Legal Consultant](https://github.com/Ajay702/My-Legal-Consultant)
+5. [Lead-Intent-Scoring-Service-Backend-](https://github.com/Ajay702/Lead-Intent-Scoring-Service-Backend-)
+
+***
+
+## Contact
+
+- LinkedIn: add your LinkedIn URL
+- Email: add your professional email
+
+> Selected repositories are public by design; some higher-sensitivity systems remain private due to enterprise security requirements.
