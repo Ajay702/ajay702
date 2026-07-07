@@ -1,7 +1,7 @@
 <h1 align="center">Ajay Raghav</h1>
 <p align="center">
   Building AI products and full-stack systems, from idea to shipped.<br />
-  CS engineer · shipped two AI products solo.
+  CS engineer · Shipped two AI products solo.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/PostGit-flagship-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="PostGit badge" />
