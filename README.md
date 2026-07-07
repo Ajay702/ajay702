@@ -1,12 +1,11 @@
 <h1 align="center">Ajay Raghav</h1>
 <p align="center">
   Building AI products and full-stack systems, from idea to shipped.<br />
-  CS engineer · shipped two AI products solo · open to remote roles at AI startups.
+  CS engineer · shipped two AI products solo.
 </p>
-
 <p align="center">
-  <a href="https://github.com/PostGitHQ/postgit"><img src="https://img.shields.io/badge/PostGit-flagship-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="PostGit badge" /></a>
-  <a href="https://github.com/Ajay702/makerr"><img src="https://img.shields.io/badge/Docminos-AI%20reports-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Docminos badge" /></a>
+  <img src="https://img.shields.io/badge/PostGit-flagship-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="PostGit badge" />
+  <img src="https://img.shields.io/badge/Docminos-AI%20reports-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Docminos badge" />
   <a href="https://github.com/Ajay702/Design-Sight"><img src="https://img.shields.io/badge/Design--Sight-product%20critique-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Design-Sight badge" /></a>
 </p>
 
@@ -16,17 +15,15 @@
 
 I build AI-assisted products and the backend systems behind them — RAG pipelines, LLM evaluation, async processing, and full-stack apps that ship. I've interned on production RAG/LLM infra and React/Web3 frontends, and independently designed, built, and shipped two AI products end to end.
 
-I care about clean architecture and I care about the product actually being useful — I try not to trade off one for the other.
-
 ***
 
 ## Flagship work
 
-**[PostGit](https://github.com/PostGitHQ/postgit)**
-Turns a developer's GitHub commit history into shareable social posts — proof of work, packaged for distribution.
+**PostGit**
+Turns a developer's GitHub commit history into shareable social posts — proof of work, packaged for distribution. Built and run as a product, so the codebase is closed-source.
 
-**[Docminos](https://github.com/Ajay702/makerr)**
-AI platform that generates institution-formatted DOCX reports from structured input — built around modular content generation and reusable templating.
+**Docminos**
+AI platform that generates institution-formatted DOCX reports from structured input, built around modular content generation and reusable templating. Also run as a product, with the code kept private.
 
 **[Design-Sight](https://github.com/Ajay702/Design-Sight)**
 Full-stack AI product that analyzes design mockups and generates UI/UX critique using computer vision.
@@ -35,11 +32,9 @@ Full-stack AI product that analyzes design mockups and generates UI/UX critique 
 
 ## Also worth a look
 
-- **[claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph)** — Agentic workflow orchestration for claims processing, built on LangGraph.
-- **[My Legal Consultant](https://github.com/Ajay702/My-Legal-Consultant)** — Domain-focused legal guidance app for practical, everyday use.
-- **[Lead-Intent-Scoring-Service](https://github.com/Ajay702/Lead-Intent-Scoring-Service-Backend-)** — Backend service for scoring and ranking lead intent.
-
-*A few production systems built during internships stay private due to company security constraints — happy to walk through the architecture in conversation.*
+**[claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph)** — Agentic workflow orchestration for claims processing, built on LangGraph.
+**[My Legal Consultant](https://github.com/Ajay702/My-Legal-Consultant)** — Domain-focused legal guidance app for practical, everyday use.
+**[Lead-Intent-Scoring-Service](https://github.com/Ajay702/Lead-Intent-Scoring-Service-Backend-)** — Backend service for scoring and ranking lead intent.
 
 ***
 
@@ -71,9 +66,4 @@ Full-stack AI product that analyzes design mockups and generates UI/UX critique 
 
 ***
 
-## Get in touch
-
-- LinkedIn: add your LinkedIn URL
-- Email: add your professional email
-
-<sub>Public repos here are curated to show product direction and engineering style — not a full dump of everything built.</sub>
+<sub>From first commit to shipped product — this is the whole arc.</sub>
