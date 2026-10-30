@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://postgit.com"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/postgit-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/postgit-light.png" /><img src="cards/postgit-light.png" alt="PostGit (GitHub, X, LinkedIn): turns your commits into scheduled posts" width="49.2%" /></picture></a>
-  <a href="https://docminos.com"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/docminos-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/docminos-light.png" /><img src="cards/docminos-light.png" alt="Docminos: project details in, a .docx your university won't bounce" width="49.2%" /></picture></a>
+  <a href="https://docminos.com"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/docminos-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/docminos-light.png" /><img src="cards/docminos-light.png" alt="Docminos (Python, Flask, GSAP): project details in, a .docx your university won't bounce" width="49.2%" /></picture></a>
 </p>
 
 ### Built in private
