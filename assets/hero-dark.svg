@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Ajay Raghav - AI engineer">
+<style>
+.ln{opacity:0;animation:in .5s ease-out forwards}
+.cur{animation:in .1s forwards,blink 1s step-end infinite}
+.orb{animation:drift 14s ease-in-out infinite alternate}
+.o2{animation-duration:18s;animation-direction:alternate-reverse}
+.title{opacity:0;animation:up .8s .1s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes blink{50%{opacity:0}}
+@keyframes drift{from{transform:translate(0,0)}to{transform:translate(60px,30px)}}
+</style>
+<defs>
+  <clipPath id="c"><rect width="1200" height="420" rx="20"/></clipPath>
+  <filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="60"/></filter>
+  <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1B2230" stroke-width="1"/></pattern>
+  <linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#8B5CF6"/><stop offset=".55" stop-color="#0EA5E9"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+  <linearGradient id="fade" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#0D1117" stop-opacity="0"/><stop offset="1" stop-color="#0D1117" stop-opacity=".9"/></linearGradient>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1200" height="420" fill="#0D1117"/>
+  <rect width="1200" height="420" fill="url(#g)"/>
+  <circle class="orb" cx="240" cy="90" r="150" fill="#8B5CF6" opacity="0.35" filter="url(#b)"/>
+  <circle class="orb o2" cx="1000" cy="360" r="170" fill="#0EA5E9" opacity="0.28" filter="url(#b)"/>
+  <rect width="1200" height="420" fill="url(#fade)"/>
+  <g class="title">
+    <text x="64" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#8B949E" letter-spacing="2">HI, I'M</text>
+    <text x="62" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="72" font-weight="800" fill="url(#tg)" letter-spacing="-2">Ajay Raghav</text>
+    <text x="64" y="226" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">I build AI products and the systems</text>
+    <text x="64" y="260" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#E6EDF3">behind them, from idea to <tspan font-weight="700" fill="#10B981">shipped</tspan>.</text>
+  </g>
+  <g class="ln" style="animation-delay:0.90s"><rect x="64" y="300" width="117" height="34" rx="17" fill="#8B5CF6" fill-opacity="0.12" stroke="#8B5CF6" stroke-opacity="0.5"/><circle cx="79" cy="317" r="4" fill="#8B5CF6"/><text x="90" y="322" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#8B5CF6">AI products</text></g><g class="ln" style="animation-delay:1.02s"><rect x="190.6" y="300" width="125" height="34" rx="17" fill="#0EA5E9" fill-opacity="0.12" stroke="#0EA5E9" stroke-opacity="0.5"/><circle cx="205.6" cy="317" r="4" fill="#0EA5E9"/><text x="216.6" y="322" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#0EA5E9">RAG + agents</text></g><g class="ln" style="animation-delay:1.14s"><rect x="325.79999999999995" y="300" width="108" height="34" rx="17" fill="#10B981" fill-opacity="0.12" stroke="#10B981" stroke-opacity="0.5"/><circle cx="340.79999999999995" cy="317" r="4" fill="#10B981"/><text x="351.79999999999995" y="322" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#10B981">Full-stack</text></g><g class="ln" style="animation-delay:1.26s"><rect x="443.79999999999995" y="300" width="125" height="34" rx="17" fill="#F59E0B" fill-opacity="0.12" stroke="#F59E0B" stroke-opacity="0.5"/><circle cx="458.79999999999995" cy="317" r="4" fill="#F59E0B"/><text x="469.79999999999995" y="322" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#F59E0B">Shipped solo</text></g>
+  <g>
+    <rect x="700" y="70" width="440" height="290" rx="14" fill="#161B22" stroke="#30363D"/>
+    <path d="M700 84a14 14 0 0 1 14-14h412a14 14 0 0 1 14 14v26H700z" fill="#21262D"/>
+    <circle cx="722" cy="90" r="6" fill="#FF5F57"/><circle cx="742" cy="90" r="6" fill="#FEBC2E"/><circle cx="762" cy="90" r="6" fill="#28C840"/>
+    <text x="920" y="95" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8B949E">~/ajay — zsh</text>
+    <text class="ln" style="animation-delay:0.50s" x="726" y="150" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#E6EDF3"><tspan fill="#10B981">$ </tspan>whoami</text><text class="ln" style="animation-delay:1.05s" x="726" y="182" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#8B949E">ajay raghav · AI engineer · full-stack</text><text class="ln" style="animation-delay:1.60s" x="726" y="214" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#E6EDF3"><tspan fill="#10B981">$ </tspan>ls ~/shipped</text><text class="ln" style="animation-delay:2.15s" x="726" y="246" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#0EA5E9">postgit/   docminos/   design-sight/</text><text class="ln" style="animation-delay:2.70s" x="726" y="278" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#E6EDF3"><tspan fill="#10B981">$ </tspan>cat focus.txt</text><text class="ln" style="animation-delay:3.25s" x="726" y="310" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#8B949E">RAG · agents · LLM evals · dev tools</text><text class="ln" style="animation-delay:3.80s" x="726" y="342" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="16" fill="#E6EDF3"><tspan fill="#10B981">$ </tspan></text><rect class="ln cur" style="animation-delay:3.80s,3.80s" x="746" y="327" width="10" height="19" fill="#8B5CF6"/>
+  </g>
+</g>
+<rect x=".5" y=".5" width="1199" height="419" rx="20" fill="none" stroke="#30363D"/>
+</svg>

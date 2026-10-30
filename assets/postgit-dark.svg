@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="PostGit">
+<style>
+.flow{stroke-dasharray:6 8;animation:dash 1.2s linear infinite}
+.pop{opacity:0;animation:pop .6s .4s cubic-bezier(.2,.8,.2,1) forwards}
+.p2{animation-delay:.9s}.p3{animation-delay:1.4s}
+@keyframes dash{to{stroke-dashoffset:-28}}
+@keyframes pop{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+<defs>
+  <linearGradient id="a" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".22"/><stop offset=".6" stop-color="#8B5CF6" stop-opacity="0"/></linearGradient>
+  <clipPath id="c"><rect width="1200" height="360" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1200" height="360" fill="#161B22"/>
+  <rect width="1200" height="360" fill="url(#a)"/>
+  <rect width="6" height="360" fill="#8B5CF6"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="359" rx="20" fill="none" stroke="#30363D"/>
+<text x="56" y="70" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="14" fill="#8B5CF6" letter-spacing="2">FLAGSHIP · LIVE PRODUCT</text>
+<text x="54" y="124" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#E6EDF3" letter-spacing="-1">PostGit</text>
+<text x="56" y="168" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#8B949E">Turns your GitHub commit history into</text><text x="56" y="198" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#8B949E">shareable social posts. Proof of work,</text><text x="56" y="228" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#8B949E">packaged for distribution.</text>
+<rect x="56" y="290" width="36" height="30" rx="8" fill="#21262D"/><text x="66" y="310" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#E6EDF3">AI</text><rect x="100" y="290" width="68" height="30" rx="8" fill="#21262D"/><text x="110" y="310" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#E6EDF3">GitHub</text><rect x="176" y="290" width="116" height="30" rx="8" fill="#21262D"/><text x="186" y="310" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#E6EDF3">social posts</text>
+
+<rect x="630" y="70" width="240" height="220" rx="12" fill="#1C2330" stroke="#30363D"/>
+<text x="650" y="96" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E">git log --oneline</text>
+<line x1="652" y1="111" x2="652" y2="199" stroke="#30363D" stroke-width="2"/>
+<g class="pop" style="animation-delay:0.30s"><circle cx="652" cy="111" r="5" fill="#8B5CF6"/><text x="668" y="116" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#E6EDF3"><tspan fill="#8B5CF6">feat:</tspan> oauth sign-in</text><text x="852" y="116" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E">2h</text></g><g class="pop" style="animation-delay:0.55s"><circle cx="652" cy="155" r="5" fill="#8B5CF6"/><text x="668" y="160" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#E6EDF3"><tspan fill="#8B5CF6">fix:</tspan> queue race</text><text x="852" y="160" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E">5h</text></g><g class="pop" style="animation-delay:0.80s"><circle cx="652" cy="199" r="5" fill="#8B5CF6"/><text x="668" y="204" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#E6EDF3"><tspan fill="#8B5CF6">perf:</tspan> cache llm calls</text><text x="852" y="204" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E">1d</text></g>
+<text x="650" y="262" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#8B949E">+ 14 more this week</text>
+<path class="flow" d="M878 180 C 905 180, 905 180, 932 180" stroke="#8B5CF6" stroke-width="3" fill="none"/>
+<path d="M928 172 l10 8 -10 8" stroke="#8B5CF6" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g class="pop p3">
+<rect x="946" y="70" width="210" height="220" rx="12" fill="#1C2330" stroke="#30363D"/>
+<circle cx="972" cy="100" r="14" fill="#8B5CF6" fill-opacity=".25"/><text x="972" y="105" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#8B5CF6">AR</text>
+<text x="994" y="98" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#E6EDF3">Ajay Raghav</text>
+<text x="994" y="114" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#8B949E">just now</text>
+<text font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#E6EDF3"><tspan x="960" y="146">This week I shipped OAuth</tspan><tspan x="960" y="164">sign-in, fixed a race in our</tspan><tspan x="960" y="182">job queue and started</tspan><tspan x="960" y="200">caching LLM responses.</tspan></text>
+<rect x="960" y="218" width="182" height="1" fill="#30363D"/>
+<text x="960" y="246" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8B949E">♥ 128    ↻ 24    ↗ share</text>
+<rect x="960" y="260" width="70" height="20" rx="10" fill="#8B5CF6" fill-opacity=".15"/><text x="995" y="274" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#8B5CF6">#buildinpublic</text>
+</g>
+</svg>
