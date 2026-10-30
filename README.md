@@ -1,29 +1,40 @@
-Hi, I'm Ajay. I build products on top of LLMs, and most of my time goes into the unglamorous parts around the model: retrieval, agent workflows, job queues, and the backend that decides whether a demo survives real users.
-
-I've shipped two products on my own, and I keep a lot of side projects running in private. Their code stays private, but I'm happy to walk through any of them on a call.
+<picture><source media="(prefers-color-scheme: dark)" srcset="cards/header-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/header-light.png" /><img src="cards/header-light.png" alt="Ajay Raghav. I build products on top of LLMs." width="100%" /></picture>
 
 ### Shipped
 
-- **[PostGit](https://postgit.com)** - turns your GitHub activity into X posts, LinkedIn drafts and build-in-public updates, and schedules them. Built it, run it.
-- **[Docminos](https://docminos.com)** - you give it your project details, it gives back a .docx report in the exact format your university or institution asks for.
+<p>
+  <a href="https://postgit.com"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/postgit-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/postgit-light.png" /><img src="cards/postgit-light.png" alt="PostGit: turns GitHub activity into social posts" width="49.4%" /></picture></a>
+  <a href="https://docminos.com"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/docminos-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/docminos-light.png" /><img src="cards/docminos-light.png" alt="Docminos: institution-ready .docx reports" width="49.4%" /></picture></a>
+</p>
 
 ### Built in private
 
-- **reel-studio** - makes faceless, animated Instagram Reels with Remotion: research, script, word-timed animation, QA. Everything is plain files; there's no database and no server.
-- **LeadPilot** - finds local businesses with weak websites, audits them, and drafts an outreach email with Claude. It only runs on localhost and starts in dry-run mode. To actually send anything you have to type `GO LIVE`.
-- **jobpipe** - my job search, automated right up to the part that matters. It reads job boards, scores roles, and tailors my resume, then waits for me to approve every application.
-- **BookLeaf Portal** - a support desk for an author platform, with AI triage, priority scoring and drafted replies. It still works with no API key. ([live demo](https://bookleaf-portal-tau-topaz.vercel.app))
-- **PS5 Play** - a two-minute check-in on how you're feeling, then three PS Plus games to match.
-- **portfolio** - my site, with a hand-written GLSL shader for the hero.
+The code on these stays private, but I'm happy to walk through any of them on a call.
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="cards/reel-studio-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/reel-studio-light.png" /><img src="cards/reel-studio-light.png" alt="reel-studio: faceless animated Reels with Remotion" width="49.4%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="cards/leadpilot-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/leadpilot-light.png" /><img src="cards/leadpilot-light.png" alt="LeadPilot: careful AI outreach, dry-run by default" width="49.4%" /></picture>
+</p>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="cards/jobpipe-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/jobpipe-light.png" /><img src="cards/jobpipe-light.png" alt="jobpipe: job search automation that waits for my approval" width="49.4%" /></picture>
+  <a href="https://bookleaf-portal-tau-topaz.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/bookleaf-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/bookleaf-light.png" /><img src="cards/bookleaf-light.png" alt="BookLeaf Portal: AI support desk (live demo)" width="49.4%" /></picture></a>
+</p>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="cards/ps5play-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/ps5play-light.png" /><img src="cards/ps5play-light.png" alt="PS5 Play: PS Plus picks based on your mood" width="49.4%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="cards/portfolio-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/portfolio-light.png" /><img src="cards/portfolio-light.png" alt="portfolio: personal site with a GLSL shader hero" width="49.4%" /></picture>
+</p>
 
 ### Open source
+
+<p>
+  <a href="https://github.com/Ajay702/rqx4tn"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/windcast-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/windcast-light.png" /><img src="cards/windcast-light.png" alt="Windcast: GB wind forecast monitor" width="49.4%" /></picture></a>
+  <a href="https://github.com/Ajay702/voice-first-demo"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/voice-first-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/voice-first-light.png" /><img src="cards/voice-first-light.png" alt="voice-first-demo: narration first, screen recording second" width="49.4%" /></picture></a>
+</p>
 
 | | |
 |---|---|
 | [dep-drift](https://github.com/Ajay702/dep-drift) | Tells you which of your dependencies your AI assistant probably doesn't know about, by comparing publish dates against the model's training cutoff. |
-| [voice-first-demo](https://github.com/Ajay702/voice-first-demo) | Record the narration first; Playwright then records the screen to match your timing. No editing. |
 | [claim-processing-langgraph](https://github.com/Ajay702/claim-processing-langgraph) | Multi-agent LangGraph pipeline that reads insurance-claim PDFs page by page and returns one structured result. |
-| [Windcast](https://github.com/Ajay702/rqx4tn) | How good was the GB wind forecast at the moment a trader had to act on it? ([live](https://vqmzk.vercel.app)) |
 | [Design-Sight](https://github.com/Ajay702/Design-Sight) | Upload a UI mockup, get a UI/UX and accessibility review back. |
 | [Lead-Intent-Scoring](https://github.com/Ajay702/Lead-Intent-Scoring-Service-Backend-) | Scores B2B leads with plain rules first, then Gemini for the cases the rules can't decide. |
 
