@@ -30,6 +30,11 @@ I've shipped two products on my own, and I keep a lot of side projects running i
 ### Recently pushed
 
 <!-- recent:start -->
+- [voice-first-demo](https://github.com/Ajay702/voice-first-demo) - 2026-10-29 - Record your voice first; the screen recording builds itself around your timing.
+- [rqx4tn](https://github.com/Ajay702/rqx4tn) - 2026-10-29
+- [LeadTracker](https://github.com/Ajay702/LeadTracker) - 2026-09-26
+- [dep-drift](https://github.com/Ajay702/dep-drift) - 2026-08-07
+- [docker-action](https://github.com/Ajay702/docker-action) - 2026-07-30
 <!-- recent:end -->
 
 <samp>Mostly Python and TypeScript. Usually FastAPI or Flask on the back, Next.js on the front.</samp>
