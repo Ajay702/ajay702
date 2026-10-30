@@ -9,7 +9,7 @@
 
 ### Built in private
 
-The code on these stays private, but I'm happy to walk through any of them on a call.
+The code on these stays private, but I'm happy to walk through any of them over a cuf of coffee.
 
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="cards/reel-studio-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/reel-studio-light.png" /><img src="cards/reel-studio-light.png" alt="reel-studio (React, TypeScript, ElevenLabs): a tiny Reels factory" width="65%" /></picture>
