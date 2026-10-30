@@ -38,5 +38,3 @@ The code on these stays private, but I'm happy to walk through any of them on a 
   <a href="https://github.com/Ajay702/claim-processing-langgraph"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/claim-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/claim-light.png" /><img src="cards/claim-light.png" alt="claim-processing-langgraph (Python, FastAPI, LangChain): messy claim PDFs to tidy JSON" width="65%" /></picture></a>
   <a href="https://github.com/Ajay702/rqx4tn"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/windcast-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/windcast-light.png" /><img src="cards/windcast-light.png" alt="Windcast (TypeScript): should you trust the wind forecast" width="32.5%" /></picture></a>
 </p>
-
-<samp>Mostly Python and TypeScript. Usually FastAPI or Flask on the back, Next.js on the front.</samp>
