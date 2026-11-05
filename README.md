@@ -27,6 +27,14 @@ The code on these stays private, but I'm happy to walk through any of them over 
 ### Open source
 
 <p>
+  <a href="https://github.com/Ajay702/meridian-engine"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/meridian-engine-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/meridian-engine-light.png" /><img src="cards/meridian-engine-light.png" alt="meridian-engine (Python, FastAPI, Claude): the boring layer every LLM app needs" width="65%" /></picture></a>
+  <a href="https://github.com/Ajay702/loopguard"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/loopguard-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/loopguard-light.png" /><img src="cards/loopguard-light.png" alt="loopguard (Python, Claude, Pydantic): a seatbelt for AI agents" width="32.5%" /></picture></a>
+</p>
+<p>
+  <a href="https://github.com/Ajay702/groundcheck"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/groundcheck-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/groundcheck-light.png" /><img src="cards/groundcheck-light.png" alt="groundcheck (Python, Claude): RAG that shows its receipts" width="49.2%" /></picture></a>
+  <a href="https://github.com/Ajay702/stock-research-team"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/stock-research-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/stock-research-light.png" /><img src="cards/stock-research-light.png" alt="stock-research-team (Python, Claude): two agents per stock, zero groupthink" width="49.2%" /></picture></a>
+</p>
+<p>
   <a href="https://github.com/Ajay702/voice-first-demo"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/voice-first-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/voice-first-light.png" /><img src="cards/voice-first-light.png" alt="voice-first-demo (JavaScript, Node.js): talk first, record later" width="32.5%" /></picture></a>
   <a href="https://github.com/Ajay702/dep-drift"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/dep-drift-dark.png" /><source media="(prefers-color-scheme: light)" srcset="cards/dep-drift-light.png" /><img src="cards/dep-drift-light.png" alt="dep-drift (TypeScript, npm): flags deps your AI will make things up about" width="65%" /></picture></a>
 </p>
